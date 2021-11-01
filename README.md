@@ -1,8 +1,8 @@
-## Tạo Calendar bằng java.
+## Tạo Calendar bằng ngôn ngữ Java.
 
 Trước tiên chúng ta cần biết một số thông tin cần thiết:
 
-Năm nhuận:
+**Năm nhuận**:
 Người ta quy định rằng năm chia hết cho 4 và không chia hết cho 100 và những năm chia hết cho 400 là nhưng năm nhuận, ví dụ 2020, 2024, 2000,... là những năm nhuận, 2021, 2100, 2345,... không phải là năm nhuận, những năm nhuận sẽ có 366 ngày, còn những năm khác sẽ có 365 ngày.
 
 Hàm kiểm tra năm nhuận:
